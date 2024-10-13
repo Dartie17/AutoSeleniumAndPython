@@ -18,7 +18,7 @@ try:
     input1.send_keys("Ivan")
     input2 = browser.find_element(By.NAME, "last_name")
     input2.send_keys("Petrov")
-    input3 = browser.find_element(By.CLASS_NAME, "form-control.city")    # заменяем пробел точкой
+    input3 = browser.find_element(By.CLASS_NAME, "form-control.city")    # заменяем пробел точкой - ищем элемент с тэгом "form-control" и классом "city"
     input3.send_keys("Smolensk")
     input4 = browser.find_element(By.ID, "country")
     input4.send_keys("Russia")

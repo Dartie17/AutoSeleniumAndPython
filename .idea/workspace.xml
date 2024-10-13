@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98004201-d18c-4c60-91aa-4417b5ab4d3c" name="Changes" comment="My commit.">
-      <change afterPath="$PROJECT_DIR$/lesson 1.6.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 1.6.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/lesson 1.6.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/lesson 1.6.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/lesson 2.1.5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 1.6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 1.6.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 1.6.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 1.6.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 1.6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/lesson 1.6.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 1.6.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/lesson 1.6.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 1.6.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/lesson 1.6.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 1.6.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/lesson 1.6.8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,18 +52,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1.6.10.executor": "Run",
     "Python.Main_2.executor": "Run",
+    "Python.lesson 1.6.10.executor": "Run",
+    "Python.lesson 1.6.11.executor": "Run",
     "Python.lesson 1.6.4.executor": "Run",
     "Python.lesson 1.6.5.executor": "Run",
     "Python.lesson 1.6.7.executor": "Run",
     "Python.lesson 1.6.8.executor": "Run",
+    "Python.lesson 2.1.5.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.uniqueness-of-selectors.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kinsk\PycharmProjects\AutoSeleniumAndPython\Chapter_1" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AutoSeleniumAndPython" />
@@ -109,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728683801959</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="My commit.">
+      <option name="closed" value="true" />
+      <created>1728766677122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728766677122</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
