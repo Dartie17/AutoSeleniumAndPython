@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98004201-d18c-4c60-91aa-4417b5ab4d3c" name="Changes" comment="My commit.">
-      <change afterPath="$PROJECT_DIR$/Chapter 2/lesson 2.2.3.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/lesson 2.2.3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/lesson 2.2.6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/lesson 2.1.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/lesson 2.1.7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,8 @@
     "Python.lesson 2.1.7.executor": "Run",
     "Python.lesson 2.2.3.1.executor": "Run",
     "Python.lesson 2.2.3.2.executor": "Run",
+    "Python.lesson 2.2.4.executor": "Run",
+    "Python.lesson 2.2.6.executor": "Run",
     "Python.main.executor": "Run",
     "Python.uniqueness-of-selectors.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -140,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728935038243</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="My commit.">
+      <option name="closed" value="true" />
+      <created>1729020689844</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729020689844</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
