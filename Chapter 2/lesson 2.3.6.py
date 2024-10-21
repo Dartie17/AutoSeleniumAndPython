@@ -1,4 +1,4 @@
-# Окно alert
+# Вкладки браузера
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -8,19 +8,17 @@ def calc(x):
     return str(math.log(abs(12*math.sin(int(x)))))
 
 try:
-    link = "http://suninjuly.github.io/alert_accept.html"
+    link = "http://suninjuly.github.io/redirect_accept.html"
     browser = webdriver.Chrome()
     browser.get(link)
 
-    button_1 = browser.find_element(By.CLASS_NAME, "btn-primary")
+    button_1 = browser.find_element(By.CSS_SELECTOR, "button")
     button_1.click()
 
-    # Делаем всплывающее окно активным элементом
-    alert_1 = browser.switch_to.alert
-    # Нажимаем "OK"
-    alert_1.accept()
-    # Или нажимаем "Отмена"
-    #alert_1.dismiss()
+    # Указываем вторую вкладку с индексом "1"
+    new_window = browser.window_handles[1]
+    # Переключаемся на вторую вкладку
+    browser.switch_to.window(new_window)
 
     num_element = browser.find_element(By.ID, "input_value")
     num = num_element.text
@@ -33,9 +31,7 @@ try:
     button_2 = browser.find_element(By.CLASS_NAME, "btn-primary")
     button_2.click()
 
-    # Делаем всплывающее окно активным элементом
     alert_2 = browser.switch_to.alert
-    # Выводим на экран текст с ответом из всплывающего окна
     print(alert_2.text)
 
 finally:
