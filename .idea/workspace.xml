@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98004201-d18c-4c60-91aa-4417b5ab4d3c" name="Changes" comment="My commit.">
-      <change afterPath="$PROJECT_DIR$/Chapter 2/lesson 2.3.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AutoSeleniumAndPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AutoSeleniumAndPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2024_13_47_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_20_04_[Changes]/shelved.patch" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/lesson 2.4.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/lesson 2.3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/lesson 2.3.4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +65,7 @@
     "Python.lesson 2.2.8.executor": "Run",
     "Python.lesson 2.3.4.executor": "Run",
     "Python.lesson 2.3.6.executor": "Run",
+    "Python.lesson 2.4.8.executor": "Run",
     "Python.main.executor": "Run",
     "Python.uniqueness-of-selectors.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
