@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98004201-d18c-4c60-91aa-4417b5ab4d3c" name="Changes" comment="My commit.">
-      <change afterPath="$PROJECT_DIR$/Chapter 3/lesson 3.2.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 3/lesson 3.2.9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +64,10 @@
     "Python.lesson 2.2.8.executor": "Run",
     "Python.lesson 2.3.4.executor": "Run",
     "Python.lesson 2.3.6.executor": "Run",
+    "Python.lesson 2.3.9.executor": "Run",
     "Python.lesson 2.4.8.executor": "Run",
     "Python.lesson 3.2.8.executor": "Run",
+    "Python.lesson 3.2.9.executor": "Run",
     "Python.main.executor": "Run",
     "Python.uniqueness-of-selectors.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
