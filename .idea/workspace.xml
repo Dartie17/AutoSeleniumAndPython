@@ -5,12 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98004201-d18c-4c60-91aa-4417b5ab4d3c" name="Changes" comment="My commit.">
-      <change afterPath="$PROJECT_DIR$/Chapter 3/lesson 3.2.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3/lesson 3.2.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_3/lesson_3-2-12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 3/lesson 3.2.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3/lesson 3.2.8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 3/lesson 3.2.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3/lesson 3.2.9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/lesson 1.2.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_1/lesson 1.2.11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/lesson 1.6.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_1/lesson 1.6.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/lesson 1.6.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_1/lesson 1.6.11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/lesson 1.6.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_1/lesson 1.6.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/lesson 1.6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_1/lesson 1.6.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/lesson 1.6.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_1/lesson 1.6.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/lesson 1.6.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_1/lesson 1.6.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/lesson 1.6.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_1/lesson 1.6.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/lesson 2.1.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/lesson 2.1.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/lesson 2.1.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/lesson 2.1.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/lesson 2.2.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/lesson 2.2.3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/lesson 2.2.3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/lesson 2.2.3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/lesson 2.2.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/lesson 2.2.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/lesson 2.2.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/lesson 2.2.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/lesson 2.3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/lesson 2.3.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/lesson 2.3.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/lesson 2.3.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/lesson 2.4.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_2/lesson 2.4.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 3/lesson 3.2.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/lesson_3-2-10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 3/lesson 3.2.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/lesson_3-2-11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 3/lesson 3.2.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/lesson_3-2-8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 3/lesson 3.2.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/lesson_3-2-9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +68,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests in lesson 3.2.11.py.executor": "Run",
+    "Python tests.Python tests in lesson 3_2_11.py.executor": "Run",
+    "Python tests.Python tests in lesson_3-2-11.py.executor": "Run",
+    "Python tests.Python tests in lesson_3-2-12.py.executor": "Run",
+    "Python tests.Python tests in lesson_3_2_11.py.executor": "Run",
     "Python.1.6.10.executor": "Run",
     "Python.Main_2.executor": "Run",
     "Python.lesson 1.2.11.executor": "Run",
@@ -135,8 +156,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for Chapter_3.lesson_3_2_11.TestAbs" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutoSeleniumAndPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Chapter_3.lesson_3_2_11.TestAbs&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for lesson_3-2-12.TestWeb" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutoSeleniumAndPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;lesson_3-2-12.TestWeb&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for lesson_3-2-12.TestWeb" />
+        <item itemvalue="Python tests.Python tests for Chapter_3.lesson_3_2_11.TestAbs" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
