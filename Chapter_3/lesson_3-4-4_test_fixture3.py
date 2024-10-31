@@ -9,12 +9,12 @@ link = "http://selenium1py.pythonanywhere.com/"
 
 @pytest.fixture
 def browser():
-    # Этот код выполнится перед началом теста
+    # Setup - этот код выполнится перед началом теста
     print("\nstart browser for test..")
     browser = webdriver.Chrome()
     # Разделяем setup и teardown и возвращаем значение browser
     yield browser
-    # Этот код выполнится после завершения теста
+    # Teardown - этот код выполнится после завершения теста
     print("\nquit browser..")
     browser.quit()
 
