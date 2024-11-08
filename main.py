@@ -1,6 +1,6 @@
-import math
-import time
+from selenium import webdriver
 
-answer = math.log(int(time.time()))
+# инициализируем драйвер браузера. После этой команды вы должны увидеть новое открытое окно браузера
+driver = webdriver.Firefox()
 
-print(answer)
+driver.get("https://stepik.org/lesson/25969/step/8")
