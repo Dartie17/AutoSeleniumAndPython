@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98004201-d18c-4c60-91aa-4417b5ab4d3c" name="Changes" comment="My commit.">
-      <change afterPath="$PROJECT_DIR$/Chapter_3/lesson_3-6-7_test_parser/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_3/lesson_3-6-7_test_parser/lesson_3-6-7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_3/lesson_3-6-8_test_rerun/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_3/lesson_3-6-8_test_rerun/lesson_3-6-8_test_rerun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_3/lesson_3-6-10_test_lang/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_3/lesson_3-6-10_test_lang/test_items.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,12 +87,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/kinsk/PycharmProjects/AutoSeleniumAndPython/Chapter_3/lesson_3-6-8_test_rerun",
+    "last_opened_file_path": "C:/Users/kinsk/PycharmProjects/AutoSeleniumAndPython/Chapter_3/lesson_3-6-9_test_language",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kinsk\PycharmProjects\AutoSeleniumAndPython\Chapter_3\lesson_3-6-9_test_language" />
       <recent name="C:\Users\kinsk\PycharmProjects\AutoSeleniumAndPython\Chapter_3\lesson_3-6-8_test_rerun" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
